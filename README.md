@@ -1,2 +1,2 @@
 # disc.py
-a discord library 
+a discord bot
